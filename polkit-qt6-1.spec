@@ -22,6 +22,9 @@ BuildRequires:	cmake(Qt6GuiTools)
 BuildRequires:	cmake(Qt6Widgets)
 BuildRequires:	cmake(Qt6)
 BuildRequires:	cmake(Qt6DBus)
+BuildRequires:	cmake(XKB)
+BuildRequires:	cmake(WrapVulkanHeaders)
+BuildRequires:	pkgconfig(vulkan)
 BuildRequires:	pkgconfig(polkit-agent-1)
 
 %description
