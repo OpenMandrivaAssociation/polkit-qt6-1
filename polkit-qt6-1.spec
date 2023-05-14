@@ -21,6 +21,7 @@ BuildRequires:	cmake(Qt6Gui)
 BuildRequires:	cmake(Qt6GuiTools)
 BuildRequires:	cmake(Qt6Widgets)
 BuildRequires:	cmake(Qt6)
+BuildRequires:	cmake(Qt6DBus)
 BuildRequires:	pkgconfig(polkit-agent-1)
 
 %description
