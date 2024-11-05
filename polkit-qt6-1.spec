@@ -1,6 +1,6 @@
 %define major 1
 %define	oname polkit-qt-1
-%define git 20230513
+#define git 20230513
 
 Summary:	Library that allows developer to access PolicyKit-1 API
 Name:		polkit-qt6-1
