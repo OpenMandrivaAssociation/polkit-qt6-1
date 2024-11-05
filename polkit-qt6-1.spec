@@ -4,7 +4,7 @@
 
 Summary:	Library that allows developer to access PolicyKit-1 API
 Name:		polkit-qt6-1
-Version:	0.114.1
+Version:	0.200.0
 Release:	%{?git:0.%{git}.}1
 License:	LGPLv2+
 Group:		Graphical desktop/KDE
